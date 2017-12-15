@@ -1,0 +1,96 @@
+\documentclass[11pt]{article}
+\setlength\headheight{13.6pt}%
+\usepackage[utf8]{inputenc} % Required for inputting international characters
+\usepackage[T1]{fontenc} % Output font encoding for international characters
+\usepackage{polski}
+\usepackage{mathpazo} % Palatino font
+\usepackage{graphicx}
+\usepackage{fancyhdr}
+\usepackage{etoolbox}
+\usepackage{blindtext}
+\usepackage{geometry}
+\geometry{legalpaper, margin=1in}
+\usepackage[cleardoublepage=plain]{scrextend}
+\graphicspath{ {images/.\ProjectAiMO} } %change to yours path
+\pagestyle{fancy}
+\fancyhf{}
+\rhead{2017/2018}
+\lhead{Projekt z Analizy i Modelowania Oprogramowania}
+\rfoot{Strona \thepage}
+\begin{document}
+	
+	\begin{titlepage} 
+	
+		\newcommand{\HRule}{\rule{\linewidth}{0.5mm}} % Defines a new command 
+		
+		\center % Centre everything on the page
+		
+		%------------------------------------------------
+		%	Nagłówki
+		%------------------------------------------------
+		
+		\textsc{\LARGE Akademia Górniczo-Hutnicza im. Stanisława Staszica w Krakowie}\\[1.5cm] % Main heading such as the name of your university/college
+		
+		\textsc{\Large Projekt z Analizy i Modelowania Oprogramowania}\\[0.5cm] % Major heading such as course name
+		
+		\textsc{\large Informatyka EAIiIB 2017/2018}\\[0.5cm] % Minor heading such as course title
+		
+		%------------------------------------------------
+		%	Tytuł
+		%------------------------------------------------
+		
+		\HRule\\[0.4cm]
+		
+		{\huge\bfseries Automat do sprzedaży zakąsek}\\[0.4cm] % Title of your document
+		
+		\HRule\\[1.5cm]
+		
+		%------------------------------------------------
+		%	Authorzy
+		%------------------------------------------------
+		
+		\begin{minipage}{0.4\textwidth}
+			\begin{flushleft}
+				\large
+				\textit{Autorzy}\\
+				Jakub \textsc{Kacorzyk} \\
+				Bartłomiej \textsc{Łazarczyk}
+			\end{flushleft}
+		\end{minipage}
+		~
+		\begin{minipage}{0.4\textwidth}
+			\begin{flushright}
+				\large
+				\textit{Prowadzący}\\
+				dr inż. Wojciech \textsc{Szmuc} % Supervisor's name
+			\end{flushright}
+		\end{minipage}
+		
+		%------------------------------------------------
+		%	Logo
+		%------------------------------------------------
+		
+		\vfill
+		\includegraphics[scale=1.0]{logo.jpg}
+		
+		%------------------------------------------------
+		%	Data
+		%------------------------------------------------
+		
+		\vfill\vfill\vfill % Position the date 3/4 down the remaining page
+		
+		{\large\today} 
+		
+		%----------------------------------------------------------------------------------------
+		
+		\vfill % Push the date up 1/4 of the remaining page
+		
+	\end{titlepage}
+	
+	\tableofcontents
+	\cleardoublepage
+	\setcounter{page}{2}
+	
+	\section{Streszczenie projektu}
+		Celem naszego projektu jest zamodelowanie automatu do sprzedaży zakąsek. Głównymi aktorami naszego modelu będą klienci, czyli osoby kupujące w naszym automacie oraz serwisanci czyli osoby odpowiedzialne za uzupełniane produktów oraz pobieranie bilonu z automatu. Modelowany przez nas automat przyjmuję zapłatę w gotówce (w postaci monet) oraz płatność zbliżeniową kartą bankową. Po wprowadzeniu odpowiedniego numeru wyświetlana będzie cena, którą klient musi zapłacić aby maszyna wydała dany produkt. W przypadku blionu możliwa jest też opcja wrzucenia pieniędzy, a dopiero potem wybrania produktu. Po otrzymaniu produktu wydawana jest reszta, jeżeli cena była niższa niż ilość pieniędzy znajdujących się w automacie. Możliwe jest też zrezygnowanie z zakupu i wtedy automat zwraca całą wpłaconą kwotę.
+	\end{document}
