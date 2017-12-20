@@ -94,4 +94,63 @@
 	\section{Streszczenie projektu}
 		Celem naszego projektu jest zamodelowanie automatu do sprzedaży zakąsek.
 		Automat w trybie oczekiwanie wyświetla na wyświetlaczu dotykowym prośbę o wybranie numeru produktu. Klient po wpisaniu numeru produkt otrzymuje informację o dostępności produktu w maszynie oraz jego cenie. Następnie wybiera jedą z dwóch dostępnych metod płatności i płaci za wybrany produkt. Modelowany przez nas automat przyjmuję zapłatę w gotówce (w postaci monet) oraz płatność w terminalu, który jest osobnym systemem. W przypadku płatności bilonem, jeżeli cena była niższa niż kwota znajdującego się w automacie, po otrzymaniu produktu wydawana jest reszta. W przypadku płatności kartą klient podąża za instrukcjami terminalu, który po zakończeniu transakcji przesyła informacje do automatu. Możliwe jest też zrezygnowanie z zakupu i wtedy automat zwraca całą wpłaconą kwotę. Automat podlega także serwisowaniu. Osoba za to odpowidzialna może zmienić cenę produktów, zmienić produkt oraz wybrać gotówkę z automatu.
+	\newpage
+    \section{Diagram użyć.}
+		\begin{center}
+			\includegraphics[scale=0.65]{UseCaseDiagram.pdf}
+		\end{center}
+		\newpage
+	\section{Diagramy sekwencji.}
+		\subsection{Wybieranie produktu udane.}
+		\begin{center}
+			\includegraphics[scale=0.65]{WybranieProduktuUdane.pdf}
+		\end{center}
+		\subsection{Wybranie produktu nieudane.}
+		\begin{center}
+			\includegraphics[scale=0.65]{WybranieProduktuNieudane.pdf}
+		\end{center}
+		\newpage
+		\subsection{Płatność kartą udana.}
+		\begin{center}
+			\includegraphics[scale=0.65]{PlatnoscKartaUdana.pdf}
+		\end{center}
+		\subsection{Płatność kartą nieudana.}
+		\begin{center}
+			\includegraphics[scale=0.65]{PlatnoscKartaNieudana.pdf}
+		\end{center}
+		\newpage
+		\subsection{Płatność gotówką.}
+		\begin{center}
+			\includegraphics[scale=0.60]{PlatnoscGotowkaUdana.pdf}
+		\end{center}
+		\newpage
+		\subsection{Wydanie produktu.}
+		\begin{center}
+			\includegraphics[scale=0.65]{WydanieProduktu.pdf}
+		\end{center}
+		\newpage
+		\subsection{Wydanie reszty.}
+		\begin{center}
+			\includegraphics[scale=0.65]{WydanieReszty.pdf}
+		\end{center}
+		\newpage
+		\subsection{Obsługa automatu.}
+		\begin{center}
+			\includegraphics[scale=0.65]{ObslugaAutomatu.pdf}
+		\end{center}
+		\newpage
+		\subsection{Pobranie gotówki.}
+		\begin{center}
+			\includegraphics[scale=0.65]{PobranieGotowki.pdf}
+		\end{center}
+		\newpage
+		\subsection{Uzupełnienie automatu.}
+		\begin{center}
+			\includegraphics[scale=0.65]{UzupelnianieAutomatu.pdf}
+		\end{center}
+		\newpage
+		\subsection{Zmiana produktu.}
+		\begin{center}
+			\includegraphics[scale=0.65]{ZmianaProduktu.pdf}
+		\end{center}
 	\end{document}
