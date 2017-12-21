@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2016.10.8)  21 DEC 2017 00:06
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2016.10.8)  21 DEC 2017 10:37
 entering extended mode
 **./ProjektAiMO.tex
 (ProjektAiMO.tex
@@ -634,25 +634,25 @@ LaTeX Font Info:    Font shape `T1/ppl/bx/n' in size <10.95> not available
 <UseCaseDiagram.pdf, id=15, 775.89874pt x 523.9575pt>
 File: UseCaseDiagram.pdf Graphic file (type pdf)
  <use UseCaseDiagram.pdf>
-Package pdftex.def Info: UseCaseDiagram.pdf used on input line 100.
+Package pdftex.def Info: UseCaseDiagram.pdf used on input line 109.
 (pdftex.def)             Requested size: 504.32822pt x 340.56834pt.
 
-Overfull \hbox (34.5732pt too wide) in paragraph at lines 100--101
+Overfull \hbox (34.5732pt too wide) in paragraph at lines 109--110
  [] 
  []
 
 [3 <./UseCaseDiagram.pdf>]
 LaTeX Font Info:    Font shape `T1/ppl/bx/n' in size <12> not available
-(Font)              Font shape `T1/ppl/b/n' tried instead on input line 104.
+(Font)              Font shape `T1/ppl/b/n' tried instead on input line 113.
 
 <WybranieProduktuUdane.pdf, id=22, 793.96625pt x 554.07pt>
 File: WybranieProduktuUdane.pdf Graphic file (type pdf)
 
 <use WybranieProduktuUdane.pdf>
-Package pdftex.def Info: WybranieProduktuUdane.pdf used on input line 106.
+Package pdftex.def Info: WybranieProduktuUdane.pdf used on input line 115.
 (pdftex.def)             Requested size: 516.07195pt x 360.14124pt.
 
-Overfull \hbox (46.31693pt too wide) in paragraph at lines 106--107
+Overfull \hbox (46.31693pt too wide) in paragraph at lines 115--116
  [] 
  []
 
@@ -660,10 +660,10 @@ Overfull \hbox (46.31693pt too wide) in paragraph at lines 106--107
 File: WybranieProduktuNieudane.pdf Graphic file (type pdf)
 
 <use WybranieProduktuNieudane.pdf>
-Package pdftex.def Info: WybranieProduktuNieudane.pdf used on input line 110.
+Package pdftex.def Info: WybranieProduktuNieudane.pdf used on input line 119.
 (pdftex.def)             Requested size: 503.02335pt x 229.65527pt.
 
-Overfull \hbox (33.26833pt too wide) in paragraph at lines 110--111
+Overfull \hbox (33.26833pt too wide) in paragraph at lines 119--120
  [] 
  []
 
@@ -672,10 +672,10 @@ Overfull \hbox (33.26833pt too wide) in paragraph at lines 110--111
 File: PlatnoscKartaUdana.pdf Graphic file (type pdf)
 
 <use PlatnoscKartaUdana.pdf>
-Package pdftex.def Info: PlatnoscKartaUdana.pdf used on input line 115.
+Package pdftex.def Info: PlatnoscKartaUdana.pdf used on input line 124.
 (pdftex.def)             Requested size: 516.07195pt x 268.80106pt.
 
-Overfull \hbox (46.31693pt too wide) in paragraph at lines 115--116
+Overfull \hbox (46.31693pt too wide) in paragraph at lines 124--125
  [] 
  []
 
@@ -683,10 +683,10 @@ Overfull \hbox (46.31693pt too wide) in paragraph at lines 115--116
 File: PlatnoscKartaNieudana.pdf Graphic file (type pdf)
 
 <use PlatnoscKartaNieudana.pdf>
-Package pdftex.def Info: PlatnoscKartaNieudana.pdf used on input line 119.
+Package pdftex.def Info: PlatnoscKartaNieudana.pdf used on input line 128.
 (pdftex.def)             Requested size: 516.07195pt x 229.65527pt.
 
-Overfull \hbox (46.31693pt too wide) in paragraph at lines 119--120
+Overfull \hbox (46.31693pt too wide) in paragraph at lines 128--129
  [] 
  []
 
@@ -695,98 +695,121 @@ Overfull \hbox (46.31693pt too wide) in paragraph at lines 119--120
 File: PlatnoscGotowkaUdana.pdf Graphic file (type pdf)
 
 <use PlatnoscGotowkaUdana.pdf>
-Package pdftex.def Info: PlatnoscGotowkaUdana.pdf used on input line 124.
+Package pdftex.def Info: PlatnoscGotowkaUdana.pdf used on input line 133.
 (pdftex.def)             Requested size: 494.45107pt x 320.39948pt.
 
-Overfull \hbox (24.69604pt too wide) in paragraph at lines 124--125
+Overfull \hbox (24.69604pt too wide) in paragraph at lines 133--134
  [] 
  []
 
-[6 <./PlatnoscGotowkaUdana.pdf>]
-<WydanieProduktu.pdf, id=52, 793.96625pt x 533.995pt>
+<PlatnoscGotowkaNieudana.pdf, id=45, 824.07875pt x 533.995pt>
+File: PlatnoscGotowkaNieudana.pdf Graphic file (type pdf)
+
+<use PlatnoscGotowkaNieudana.pdf>
+Package pdftex.def Info: PlatnoscGotowkaNieudana.pdf used on input line 137.
+(pdftex.def)             Requested size: 494.45107pt x 320.39948pt.
+
+Overfull \hbox (24.69604pt too wide) in paragraph at lines 137--138
+ [] 
+ []
+
+[6 <./PlatnoscGotowkaUdana.pdf> <./PlatnoscGotowkaNieudana.pdf>]
+<WydanieProduktu.pdf, id=56, 793.96625pt x 533.995pt>
 File: WydanieProduktu.pdf Graphic file (type pdf)
 
 <use WydanieProduktu.pdf>
-Package pdftex.def Info: WydanieProduktu.pdf used on input line 129.
+Package pdftex.def Info: WydanieProduktu.pdf used on input line 142.
 (pdftex.def)             Requested size: 516.07195pt x 347.09264pt.
 
-Overfull \hbox (46.31693pt too wide) in paragraph at lines 129--130
+Overfull \hbox (46.31693pt too wide) in paragraph at lines 142--143
  [] 
  []
 
 [7 <./WydanieProduktu.pdf>]
-<WydanieReszty.pdf, id=59, 793.96625pt x 533.995pt>
+<WydanieReszty.pdf, id=63, 793.96625pt x 533.995pt>
 File: WydanieReszty.pdf Graphic file (type pdf)
  <use WydanieReszty.pdf>
-Package pdftex.def Info: WydanieReszty.pdf used on input line 134.
+Package pdftex.def Info: WydanieReszty.pdf used on input line 147.
 (pdftex.def)             Requested size: 516.07195pt x 347.09264pt.
 
-Overfull \hbox (46.31693pt too wide) in paragraph at lines 134--135
+Overfull \hbox (46.31693pt too wide) in paragraph at lines 147--148
  [] 
  []
 
-[8 <./WydanieReszty.pdf>] <ObslugaAutomatu.pdf, id=66, 807.015pt x 533.995pt>
-File: ObslugaAutomatu.pdf Graphic file (type pdf)
+[8 <./WydanieReszty.pdf>]
+<AnulowanieZakupu.pdf, id=70, 793.96625pt x 443.6575pt>
+File: AnulowanieZakupu.pdf Graphic file (type pdf)
 
-<use ObslugaAutomatu.pdf>
-Package pdftex.def Info: ObslugaAutomatu.pdf used on input line 139.
+<use AnulowanieZakupu.pdf>
+Package pdftex.def Info: AnulowanieZakupu.pdf used on input line 152.
+(pdftex.def)             Requested size: 516.07195pt x 288.37395pt.
+
+Overfull \hbox (46.31693pt too wide) in paragraph at lines 152--153
+ [] 
+ []
+
+[9 <./AnulowanieZakupu.pdf>]
+<ObslugaAutomatu.pdf, id=77, 807.015pt x 533.995pt>
+File: ObslugaAutomatu.pdf Graphic file (type pdf)
+ <use ObslugaAutomatu.pdf>
+Package pdftex.def Info: ObslugaAutomatu.pdf used on input line 157.
 (pdftex.def)             Requested size: 524.55354pt x 347.09264pt.
 
-Overfull \hbox (54.79852pt too wide) in paragraph at lines 139--140
+Overfull \hbox (54.79852pt too wide) in paragraph at lines 157--158
  [] 
  []
 
-[9 <./ObslugaAutomatu.pdf>]
-<PobranieGotowki.pdf, id=73, 793.96625pt x 533.995pt>
+[10 <./ObslugaAutomatu.pdf>]
+<PobranieGotowki.pdf, id=84, 793.96625pt x 533.995pt>
 File: PobranieGotowki.pdf Graphic file (type pdf)
 
 <use PobranieGotowki.pdf>
-Package pdftex.def Info: PobranieGotowki.pdf used on input line 144.
+Package pdftex.def Info: PobranieGotowki.pdf used on input line 162.
 (pdftex.def)             Requested size: 516.07195pt x 347.09264pt.
 
-Overfull \hbox (46.31693pt too wide) in paragraph at lines 144--145
+Overfull \hbox (46.31693pt too wide) in paragraph at lines 162--163
  [] 
  []
 
-[10 <./PobranieGotowki.pdf>]
-<UzupelnianieAutomatu.pdf, id=80, 793.96625pt x 533.995pt>
+[11 <./PobranieGotowki.pdf>]
+<UzupelnianieAutomatu.pdf, id=91, 793.96625pt x 533.995pt>
 File: UzupelnianieAutomatu.pdf Graphic file (type pdf)
 
 <use UzupelnianieAutomatu.pdf>
-Package pdftex.def Info: UzupelnianieAutomatu.pdf used on input line 149.
+Package pdftex.def Info: UzupelnianieAutomatu.pdf used on input line 167.
 (pdftex.def)             Requested size: 516.07195pt x 347.09264pt.
 
-Overfull \hbox (46.31693pt too wide) in paragraph at lines 149--150
+Overfull \hbox (46.31693pt too wide) in paragraph at lines 167--168
  [] 
  []
 
-[11 <./UzupelnianieAutomatu.pdf>]
-<ZmianaProduktu.pdf, id=87, 794.97pt x 533.995pt>
+[12 <./UzupelnianieAutomatu.pdf>]
+<ZmianaProduktu.pdf, id=99, 794.97pt x 533.995pt>
 File: ZmianaProduktu.pdf Graphic file (type pdf)
  <use ZmianaProduktu.pdf>
-Package pdftex.def Info: ZmianaProduktu.pdf used on input line 154.
+Package pdftex.def Info: ZmianaProduktu.pdf used on input line 172.
 (pdftex.def)             Requested size: 516.72438pt x 347.09264pt.
 
-Overfull \hbox (46.96936pt too wide) in paragraph at lines 154--155
+Overfull \hbox (46.96936pt too wide) in paragraph at lines 172--173
  [] 
  []
 
-[12 <./ZmianaProduktu.pdf>] (ProjektAiMO.aux) ) 
+[13 <./ZmianaProduktu.pdf>] (ProjektAiMO.aux) ) 
 Here is how much of TeX's memory you used:
- 4129 strings out of 493334
- 57648 string characters out of 3139246
- 144253 words of memory out of 3000000
- 7557 multiletter control sequences out of 15000+200000
+ 4139 strings out of 493334
+ 57921 string characters out of 3139246
+ 146253 words of memory out of 3000000
+ 7565 multiletter control sequences out of 15000+200000
  32477 words of font info for 56 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 49i,10n,43p,1003b,253s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 49i,10n,43p,865b,253s stack positions out of 5000i,500n,10000p,200000b,50000s
 {C:/Program Files/MiKTeX 2.9/fon
 ts/enc/dvips/fontname/8r.enc}<C:/Program Files/MiKTeX 2.9/fonts/type1/urw/palat
 ino/uplb8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/palatino/uplr8a.pfb
 ><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/palatino/uplri8a.pfb>
-Output written on ProjektAiMO.pdf (13 pages, 1075936 bytes).
+Output written on ProjektAiMO.pdf (14 pages, 1303753 bytes).
 PDF statistics:
- 107 PDF objects out of 1000 (max. 8388607)
+ 118 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 66 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 76 words of extra memory for PDF output out of 10000 (max. 10000000)
 

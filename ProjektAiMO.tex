@@ -92,8 +92,17 @@
 	\setcounter{page}{2}
 	
 	\section{Streszczenie projektu}
-		Celem naszego projektu jest zamodelowanie automatu do sprzedaży zakąsek.
-		Automat w trybie oczekiwanie wyświetla na wyświetlaczu dotykowym prośbę o wybranie numeru produktu. Klient po wpisaniu numeru produkt otrzymuje informację o dostępności produktu w maszynie oraz jego cenie. Następnie wybiera jedą z dwóch dostępnych metod płatności i płaci za wybrany produkt. Modelowany przez nas automat przyjmuję zapłatę w gotówce (w postaci monet) oraz płatność w terminalu, który jest osobnym systemem. W przypadku płatności bilonem, jeżeli cena była niższa niż kwota znajdującego się w automacie, po otrzymaniu produktu wydawana jest reszta. W przypadku płatności kartą klient podąża za instrukcjami terminalu, który po zakończeniu transakcji przesyła informacje do automatu. Możliwe jest też zrezygnowanie z zakupu i wtedy automat zwraca całą wpłaconą kwotę. Automat podlega także serwisowaniu. Osoba za to odpowidzialna może zmienić cenę produktów, zmienić produkt oraz wybrać gotówkę z automatu.
+			Celem naszego projektu jest zamodelowanie automatu do sprzedaży zakąsek.
+			
+			System oczekując na reakcje z zewnątrz wyświetla na panelu dotykowym wraz z wyświetlaczem prośbę o wybranie produktu. Następnie klient podaje numer produktu, który chciałby zakupić w wyniku czego system sprawdza dostępność danego produktu oraz jego cenę w bazie. W przypadku braku produktu wyświetlana jest komunikat o braku produktu lub złym numerze. Gdy dany produkt jest dostępny, wyświetlana  jest informacja o cenie produktu oraz o metodach sposobu zapłaty. Klient może wybrać płatność gotówką bądź też kartą.
+			
+			W przypadku wyboru płatności gotówką wyświetlany jest komunikat o wrzuceniu monety. Wrzucona moneta jest sprawdzana przez system obsługi gotówki i w razie niepowodzenia jest wyrzucana z powrotem. W przypadku prawidłowego wyniku sprawdzenia, wartość monety jest odliczana. Następnie sprawdzane jest czy osiągnięto dokładnie kwotę ceny produktu. Jeżeli suma jest mniejsza od ceny proces jest powtarzany. Gdy wrzucona suma jest większa lub równa cenie następuje wydanie produktu oraz reszty. Wydanie reszty jest możliwe, gdy odpowiednia ilość bilonów jest w zbiorniku, w przeciwnym wypadku automat informuję o braku możliwości wydania reszty oraz zwraca wpłacone pieniądze. Możliwe jest też anulowanie zakupu, w wyniku czego wydawana jest cała kwota wpłacona do automatu oraz kończony jest proces zakupu.
+			
+			W przypadku wyboru płatności kartą, główny system przekazuje żądanie rozpoczęcia transakcji do terminala, będącego osobnym systemem. Główny system otrzymuje informację o pozytywnym bądź negatywnym przebiegu transakcji. W przypadku pozytywnego przebiegu zostaje wyświetlony komunikat o zapłaceniu oraz wydawany jest produkt. W przypadku negatywne przebiegu, cały proces zakupy zostaje anulowany oraz wyświetlany jest komunikat o braku zapłaty.
+			
+			Automat ma również przygotowany system obsługi automatu przez osobę serwisującą. Ma ona dostęp do drzwi automatu i jest w stanie je otworzyć. System wykrywa takie zachowanie i wyświetla w danym momencie informację, że drzwi zostały otwarte. Następnie serwisant może wypłacić gotówkę, uzupełnić automat, bądź też zmienić produkt w automacie. W przypadku wyboru wypłaty gotówki, system otwiera zbiornik na bilony oraz wyświetla komunikat o zamknięciu zbiornika po wyciągnięciu pieniędzy. Gdy zbiornik zostaje zamknięty, system wyświetla komunikat o zakończeniu wypłaty gotówki. W przypadku wyboru uzupełnienia automatu
+			w produkty, system wyświetla informację o uzupełnianiu podczas tego procesu oraz wyświetla informację o zakończeniu uzupełniania po zakończeniu całego procesu. W przypadku wyboru zmiany produktu, system wyświetla komunikat i wyborze numeru produktu, który ma zostać zmieniony. Następnie system prosi o wprowadzenie nowej kwoty produktu, po czym jest sprawdzana jej poprawność. W przypadku pozytywnego sprawdzenia cena produktu jest aktualizowana. W przypadku wykrytej nieprawidłowości w podanej kwocie, wyświetlany jest komunikat o niepoprawności kwoty, a cały proces rozpoczynany jest od nowa.  
+			
 	\newpage
     \section{Diagram użyć.}
 		\begin{center}
@@ -119,9 +128,13 @@
 			\includegraphics[scale=0.65]{PlatnoscKartaNieudana.pdf}
 		\end{center}
 		\newpage
-		\subsection{Płatność gotówką.}
+		\subsection{Płatność gotówką udana.}
 		\begin{center}
 			\includegraphics[scale=0.60]{PlatnoscGotowkaUdana.pdf}
+		\end{center}
+		\subsection{Płatność gotówką nieudana.}
+		\begin{center}
+			\includegraphics[scale=0.60]{PlatnoscGotowkaNieudana.pdf}
 		\end{center}
 		\newpage
 		\subsection{Wydanie produktu.}
@@ -132,6 +145,11 @@
 		\subsection{Wydanie reszty.}
 		\begin{center}
 			\includegraphics[scale=0.65]{WydanieReszty.pdf}
+		\end{center}
+		\newpage
+		\subsection{Anulowanie zakupu.}
+		\begin{center}
+			\includegraphics[scale=0.65]{AnulowanieZakupu.pdf}
 		\end{center}
 		\newpage
 		\subsection{Obsługa automatu.}

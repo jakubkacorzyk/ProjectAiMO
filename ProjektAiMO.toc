@@ -5,10 +5,12 @@
 \contentsline {subsection}{\numberline {3.2}Wybranie produktu nieudane.}{4}
 \contentsline {subsection}{\numberline {3.3}P\IeC {\l }atno\IeC {\'s}\IeC {\'c} kart\IeC {\k a} udana.}{5}
 \contentsline {subsection}{\numberline {3.4}P\IeC {\l }atno\IeC {\'s}\IeC {\'c} kart\IeC {\k a} nieudana.}{5}
-\contentsline {subsection}{\numberline {3.5}P\IeC {\l }atno\IeC {\'s}\IeC {\'c} got\IeC {\'o}wk\IeC {\k a}.}{6}
-\contentsline {subsection}{\numberline {3.6}Wydanie produktu.}{7}
-\contentsline {subsection}{\numberline {3.7}Wydanie reszty.}{8}
-\contentsline {subsection}{\numberline {3.8}Obs\IeC {\l }uga automatu.}{9}
-\contentsline {subsection}{\numberline {3.9}Pobranie got\IeC {\'o}wki.}{10}
-\contentsline {subsection}{\numberline {3.10}Uzupe\IeC {\l }nienie automatu.}{11}
-\contentsline {subsection}{\numberline {3.11}Zmiana produktu.}{12}
+\contentsline {subsection}{\numberline {3.5}P\IeC {\l }atno\IeC {\'s}\IeC {\'c} got\IeC {\'o}wk\IeC {\k a} udana.}{6}
+\contentsline {subsection}{\numberline {3.6}P\IeC {\l }atno\IeC {\'s}\IeC {\'c} got\IeC {\'o}wk\IeC {\k a} nieudana.}{6}
+\contentsline {subsection}{\numberline {3.7}Wydanie produktu.}{7}
+\contentsline {subsection}{\numberline {3.8}Wydanie reszty.}{8}
+\contentsline {subsection}{\numberline {3.9}Anulowanie zakupu.}{9}
+\contentsline {subsection}{\numberline {3.10}Obs\IeC {\l }uga automatu.}{10}
+\contentsline {subsection}{\numberline {3.11}Pobranie got\IeC {\'o}wki.}{11}
+\contentsline {subsection}{\numberline {3.12}Uzupe\IeC {\l }nienie automatu.}{12}
+\contentsline {subsection}{\numberline {3.13}Zmiana produktu.}{13}
