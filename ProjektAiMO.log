@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2016.10.8)  29 DEC 2017 16:34
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2016.10.8)  11 JAN 2018 10:39
 entering extended mode
 **./ProjektAiMO.tex
 (ProjektAiMO.tex
@@ -725,8 +725,7 @@ Overfull \hbox (46.31693pt too wide) in paragraph at lines 142--143
  [] 
  []
 
-[7 <./WydanieProduktu.pdf>]
-<WydanieReszty.pdf, id=63, 793.96625pt x 533.995pt>
+<WydanieReszty.pdf, id=57, 793.96625pt x 533.995pt>
 File: WydanieReszty.pdf Graphic file (type pdf)
  <use WydanieReszty.pdf>
 Package pdftex.def Info: WydanieReszty.pdf used on input line 147.
@@ -736,8 +735,8 @@ Overfull \hbox (46.31693pt too wide) in paragraph at lines 147--148
  [] 
  []
 
-[8 <./WydanieReszty.pdf>]
-<AnulowanieZakupu.pdf, id=70, 793.96625pt x 443.6575pt>
+[7 <./WydanieProduktu.pdf> <./WydanieReszty.pdf>]
+<AnulowanieZakupu.pdf, id=67, 793.96625pt x 443.6575pt>
 File: AnulowanieZakupu.pdf Graphic file (type pdf)
 
 <use AnulowanieZakupu.pdf>
@@ -748,8 +747,8 @@ Overfull \hbox (46.31693pt too wide) in paragraph at lines 152--153
  [] 
  []
 
-[9 <./AnulowanieZakupu.pdf>]
-<ObslugaAutomatu.pdf, id=77, 824.07875pt x 533.995pt>
+[8 <./AnulowanieZakupu.pdf>]
+<ObslugaAutomatu.pdf, id=74, 824.07875pt x 533.995pt>
 File: ObslugaAutomatu.pdf Graphic file (type pdf)
 
 <use ObslugaAutomatu.pdf>
@@ -760,57 +759,196 @@ Overfull \hbox (65.88982pt too wide) in paragraph at lines 157--158
  [] 
  []
 
-[10 <./ObslugaAutomatu.pdf>]
-<PobranieGotowki.pdf, id=84, 793.96625pt x 533.995pt>
+<PobranieGotowki.pdf, id=75, 793.96625pt x 533.995pt>
 File: PobranieGotowki.pdf Graphic file (type pdf)
 
 <use PobranieGotowki.pdf>
-Package pdftex.def Info: PobranieGotowki.pdf used on input line 162.
+Package pdftex.def Info: PobranieGotowki.pdf used on input line 161.
 (pdftex.def)             Requested size: 516.07195pt x 347.09264pt.
 
-Overfull \hbox (46.31693pt too wide) in paragraph at lines 162--163
+Overfull \hbox (46.31693pt too wide) in paragraph at lines 161--162
  [] 
  []
 
-[11 <./PobranieGotowki.pdf>]
-<UzupelnianieAutomatu.pdf, id=91, 793.96625pt x 533.995pt>
+[9 <./ObslugaAutomatu.pdf> <./PobranieGotowki.pdf>]
+<UzupelnianieAutomatu.pdf, id=85, 793.96625pt x 533.995pt>
 File: UzupelnianieAutomatu.pdf Graphic file (type pdf)
 
 <use UzupelnianieAutomatu.pdf>
-Package pdftex.def Info: UzupelnianieAutomatu.pdf used on input line 167.
+Package pdftex.def Info: UzupelnianieAutomatu.pdf used on input line 166.
 (pdftex.def)             Requested size: 516.07195pt x 347.09264pt.
 
-Overfull \hbox (46.31693pt too wide) in paragraph at lines 167--168
+Overfull \hbox (46.31693pt too wide) in paragraph at lines 166--167
  [] 
  []
 
-[12 <./UzupelnianieAutomatu.pdf>]
-<ZmianaProduktu.pdf, id=99, 794.97pt x 533.995pt>
+<ZmianaProduktu.pdf, id=86, 794.97pt x 533.995pt>
 File: ZmianaProduktu.pdf Graphic file (type pdf)
  <use ZmianaProduktu.pdf>
-Package pdftex.def Info: ZmianaProduktu.pdf used on input line 172.
+Package pdftex.def Info: ZmianaProduktu.pdf used on input line 170.
 (pdftex.def)             Requested size: 516.72438pt x 347.09264pt.
 
-Overfull \hbox (46.96936pt too wide) in paragraph at lines 172--173
+Overfull \hbox (46.96936pt too wide) in paragraph at lines 170--171
  [] 
  []
 
-[13 <./ZmianaProduktu.pdf>] (ProjektAiMO.aux) ) 
+[10 <./UzupelnianieAutomatu.pdf> <./ZmianaProduktu.pdf>]
+<stanu1.pdf, id=96, 733.74126pt x 1082.0425pt>
+File: stanu1.pdf Graphic file (type pdf)
+ <use stanu1.pdf>
+Package pdftex.def Info: stanu1.pdf used on input line 176.
+(pdftex.def)             Requested size: 513.61539pt x 757.42459pt.
+
+Overfull \hbox (43.86037pt too wide) in paragraph at lines 176--177
+ [] 
+ []
+
+<stanu2.pdf, id=97, 316.18124pt x 754.82pt>
+File: stanu2.pdf Graphic file (type pdf)
+ <use stanu2.pdf>
+Package pdftex.def Info: stanu2.pdf used on input line 180.
+(pdftex.def)             Requested size: 237.13535pt x 566.11363pt.
+ [11 <./stanu1.pdf>] <stanu3.pdf, id=104, 645.41125pt x 1121.18875pt>
+File: stanu3.pdf Graphic file (type pdf)
+ <use stanu3.pdf>
+Package pdftex.def Info: stanu3.pdf used on input line 184.
+(pdftex.def)             Requested size: 451.7848pt x 784.82678pt.
+ [12 <./stanu2.pdf>] [13 <./stanu3.pdf>] <stanu4.pdf, id=118, 631.35875pt x 935
+.495pt>
+File: stanu4.pdf Graphic file (type pdf)
+
+<use stanu4.pdf>
+Package pdftex.def Info: stanu4.pdf used on input line 189.
+(pdftex.def)             Requested size: 473.5179pt x 701.61952pt.
+
+Overfull \hbox (3.76288pt too wide) in paragraph at lines 189--190
+ [] 
+ []
+
+<stanu5.pdf, id=119, 154.5775pt x 579.16376pt>
+File: stanu5.pdf Graphic file (type pdf)
+ <use stanu5.pdf>
+Package pdftex.def Info: stanu5.pdf used on input line 193.
+(pdftex.def)             Requested size: 154.5771pt x 579.16234pt.
+ [14 <./stanu4.pdf>] <stanu6.pdf, id=126, 372.39125pt x 840.13875pt>
+File: stanu6.pdf Graphic file (type pdf)
+ <use stanu6.pdf>
+Package pdftex.def Info: stanu6.pdf used on input line 197.
+(pdftex.def)             Requested size: 316.53406pt x 714.12132pt.
+ [15 <./stanu5.pdf>] <stanu7.pdf, id=133, 151.56625pt x 674.52pt>
+File: stanu7.pdf Graphic file (type pdf)
+ <use stanu7.pdf>
+Package pdftex.def Info: stanu7.pdf used on input line 201.
+(pdftex.def)             Requested size: 151.56587pt x 674.51836pt.
+
+[16 <./stanu6.pdf>] [17 <./stanu7.pdf>]
+<czynnosci1.pdf, id=146, 692.5875pt x 1166.3575pt>
+File: czynnosci1.pdf Graphic file (type pdf)
+ <use czynnosci1.pdf>
+Package pdftex.def Info: czynnosci1.pdf used on input line 207.
+(pdftex.def)             Requested size: 457.10916pt x 769.79834pt.
+
+[18 <./czynnosci1.pdf>] <czynnosci2.pdf, id=154, 733.74126pt x 975.645pt>
+File: czynnosci2.pdf Graphic file (type pdf)
+
+<use czynnosci2.pdf>
+Package pdftex.def Info: czynnosci2.pdf used on input line 212.
+(pdftex.def)             Requested size: 513.61539pt x 682.94685pt.
+
+Overfull \hbox (43.86037pt too wide) in paragraph at lines 212--213
+ [] 
+ []
+
+<czynnosci3.pdf, id=155, 122.4575pt x 443.6575pt>
+File: czynnosci3.pdf Graphic file (type pdf)
+ <use czynnosci3.pdf>
+Package pdftex.def Info: czynnosci3.pdf used on input line 216.
+(pdftex.def)             Requested size: 122.45718pt x 443.6564pt.
+ [19 <./czynnosci2.pdf>] [20 <./czynnosci3.pdf>]
+<czynnosci4.pdf, id=168, 601.24625pt x 922.44624pt>
+File: czynnosci4.pdf Graphic file (type pdf)
+ <use czynnosci4.pdf>
+Package pdftex.def Info: czynnosci4.pdf used on input line 221.
+(pdftex.def)             Requested size: 480.99763pt x 737.958pt.
+
+Overfull \hbox (11.24261pt too wide) in paragraph at lines 221--222
+ [] 
+ []
+
+[21 <./czynnosci4.pdf>] <klas.pdf, id=175, 783.92876pt x 1040.88875pt>
+File: klas.pdf Graphic file (type pdf)
+
+<use klas.pdf>
+Package pdftex.def Info: klas.pdf used on input line 226.
+(pdftex.def)             Requested size: 509.54765pt x 676.56967pt.
+
+Overfull \hbox (39.79263pt too wide) in paragraph at lines 226--227
+ [] 
+ []
+
+<obiektow1.pdf, id=176, 593.21625pt x 232.87pt>
+File: obiektow1.pdf Graphic file (type pdf)
+ <use obiektow1.pdf>
+Package pdftex.def Info: obiektow1.pdf used on input line 231.
+(pdftex.def)             Requested size: 385.58598pt x 151.3637pt.
+ [22 <./klas.pdf>] <obiektow2.pdf, id=183, 783.92876pt x 353.32pt>
+File: obiektow2.pdf Graphic file (type pdf)
+ <use obiektow2.pdf>
+Package pdftex.def Info: obiektow2.pdf used on input line 235.
+(pdftex.def)             Requested size: 509.54765pt x 229.65527pt.
+
+Overfull \hbox (39.79263pt too wide) in paragraph at lines 235--236
+ [] 
+ []
+
+<obiektow3.pdf, id=184, 773.89125pt x 343.2825pt>
+File: obiektow3.pdf Graphic file (type pdf)
+ <use obiektow3.pdf>
+Package pdftex.def Info: obiektow3.pdf used on input line 239.
+(pdftex.def)             Requested size: 503.02335pt x 223.13097pt.
+
+Overfull \hbox (33.26833pt too wide) in paragraph at lines 239--240
+ [] 
+ []
+
+[23 <./obiektow1.pdf> <./obiektow2.pdf> <./obiektow3.pdf>]
+<obiektow4.pdf, id=197, 753.81625pt x 353.32pt>
+File: obiektow4.pdf Graphic file (type pdf)
+ <use obiektow4.pdf>
+Package pdftex.def Info: obiektow4.pdf used on input line 244.
+(pdftex.def)             Requested size: 489.97476pt x 229.65527pt.
+
+Overfull \hbox (20.21974pt too wide) in paragraph at lines 244--245
+ [] 
+ []
+
+<obiektow5.pdf, id=198, 793.96625pt x 584.1825pt>
+File: obiektow5.pdf Graphic file (type pdf)
+ <use obiektow5.pdf>
+Package pdftex.def Info: obiektow5.pdf used on input line 248.
+(pdftex.def)             Requested size: 516.07195pt x 379.71411pt.
+
+Overfull \hbox (46.31693pt too wide) in paragraph at lines 248--249
+ [] 
+ []
+
+[24 <./obiektow4.pdf> <./obiektow5.pdf>] (ProjektAiMO.aux) ) 
 Here is how much of TeX's memory you used:
- 4139 strings out of 493334
- 57921 string characters out of 3139246
- 146253 words of memory out of 3000000
- 7565 multiletter control sequences out of 15000+200000
+ 4224 strings out of 493334
+ 59239 string characters out of 3139246
+ 148253 words of memory out of 3000000
+ 7633 multiletter control sequences out of 15000+200000
  32477 words of font info for 56 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 49i,10n,43p,865b,253s stack positions out of 5000i,500n,10000p,200000b,50000s
-{C:/Program Files/MiKTeX 2.9/fon
-ts/enc/dvips/fontname/8r.enc}<C:/Program Files/MiKTeX 2.9/fonts/type1/urw/palat
-ino/uplb8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/palatino/uplr8a.pfb
-><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/palatino/uplri8a.pfb>
-Output written on ProjektAiMO.pdf (14 pages, 1305206 bytes).
+ 49i,10n,43p,865b,259s stack positions out of 5000i,500n,10000p,200000b,50000s
+{C:/Program Files/M
+iKTeX 2.9/fonts/enc/dvips/fontname/8r.enc}<C:/Program Files/MiKTeX 2.9/fonts/ty
+pe1/urw/palatino/uplb8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/palati
+no/uplr8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/palatino/uplri8a.pfb
+>
+Output written on ProjektAiMO.pdf (25 pages, 3011776 bytes).
 PDF statistics:
- 118 PDF objects out of 1000 (max. 8388607)
+ 221 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 76 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 161 words of extra memory for PDF output out of 10000 (max. 10000000)
 
