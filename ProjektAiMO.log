@@ -1,9 +1,9 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2016.10.8)  11 JAN 2018 10:39
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6500 64-bit) (preloaded format=pdflatex 2018.1.22)  27 JAN 2018 12:54
 entering extended mode
 **./ProjektAiMO.tex
 (ProjektAiMO.tex
-LaTeX2e <2016/03/31> patch level 3
-Babel <3.9r> and hyphenation patterns for 75 language(s) loaded.
+LaTeX2e <2017-04-15>
+Babel <3.15> and hyphenation patterns for 75 language(s) loaded.
 ("C:\Program Files\MiKTeX 2.9\tex\latex\base\article.cls"
 Document Class: article 2014/09/29 v1.4h Standard LaTeX document class
 ("C:\Program Files\MiKTeX 2.9\tex\latex\base\size11.clo"
@@ -27,14 +27,14 @@ Package: inputenc 2015/03/17 v1.2c Input encoding file
 \inpenc@posthook=\toks15
 
 ("C:\Program Files\MiKTeX 2.9\tex\latex\base\utf8.def"
-File: utf8.def 2016/02/28 v1.1s UTF-8 support for inputenc
+File: utf8.def 2017/01/28 v1.1t UTF-8 support for inputenc
 Now handling font encoding OML ...
 ... no UTF-8 mapping file for font encoding OML
 Now handling font encoding T1 ...
 ... processing UTF-8 mapping file for font encoding T1
 
 ("C:\Program Files\MiKTeX 2.9\tex\latex\base\t1enc.dfu"
-File: t1enc.dfu 2016/02/28 v1.1s UTF-8 support for inputenc
+File: t1enc.dfu 2017/01/28 v1.1t UTF-8 support for inputenc
    defining Unicode char U+00A0 (decimal 160)
    defining Unicode char U+00A1 (decimal 161)
    defining Unicode char U+00A3 (decimal 163)
@@ -246,6 +246,8 @@ File: t1enc.dfu 2016/02/28 v1.1s UTF-8 support for inputenc
    defining Unicode char U+0219 (decimal 537)
    defining Unicode char U+021A (decimal 538)
    defining Unicode char U+021B (decimal 539)
+   defining Unicode char U+0232 (decimal 562)
+   defining Unicode char U+0233 (decimal 563)
    defining Unicode char U+1E02 (decimal 7682)
    defining Unicode char U+1E03 (decimal 7683)
    defining Unicode char U+200C (decimal 8204)
@@ -266,12 +268,14 @@ File: t1enc.dfu 2016/02/28 v1.1s UTF-8 support for inputenc
    defining Unicode char U+2039 (decimal 8249)
    defining Unicode char U+203A (decimal 8250)
    defining Unicode char U+2423 (decimal 9251)
+   defining Unicode char U+1E20 (decimal 7712)
+   defining Unicode char U+1E21 (decimal 7713)
 )
 Now handling font encoding OT1 ...
 ... processing UTF-8 mapping file for font encoding OT1
 
 ("C:\Program Files\MiKTeX 2.9\tex\latex\base\ot1enc.dfu"
-File: ot1enc.dfu 2016/02/28 v1.1s UTF-8 support for inputenc
+File: ot1enc.dfu 2017/01/28 v1.1t UTF-8 support for inputenc
    defining Unicode char U+00A0 (decimal 160)
    defining Unicode char U+00A1 (decimal 161)
    defining Unicode char U+00A3 (decimal 163)
@@ -312,7 +316,7 @@ Now handling font encoding OMS ...
 ... processing UTF-8 mapping file for font encoding OMS
 
 ("C:\Program Files\MiKTeX 2.9\tex\latex\base\omsenc.dfu"
-File: omsenc.dfu 2016/02/28 v1.1s UTF-8 support for inputenc
+File: omsenc.dfu 2017/01/28 v1.1t UTF-8 support for inputenc
    defining Unicode char U+00A7 (decimal 167)
    defining Unicode char U+00B6 (decimal 182)
    defining Unicode char U+00B7 (decimal 183)
@@ -336,50 +340,40 @@ Now handling font encoding U ...
    defining Unicode char U+2423 (decimal 9251)
 ))
 ("C:\Program Files\MiKTeX 2.9\tex\latex\base\fontenc.sty"
-Package: fontenc 2016/06/19 v1.99m Standard LaTeX package
+Package: fontenc 2017/04/05 v2.0i Standard LaTeX package
 
 ("C:\Program Files\MiKTeX 2.9\tex\latex\base\t1enc.def"
-File: t1enc.def 2016/06/19 v1.99m Standard LaTeX file
+File: t1enc.def 2017/04/05 v2.0i Standard LaTeX file
 LaTeX Font Info:    Redeclaring font encoding T1 on input line 48.
 ))
 ("C:\Program Files\MiKTeX 2.9\tex\latex\polski\polski.sty"
-Package: polski 2008/02/24 v1.3.3 Polish language package
+Package: polski 2017/05/04 v1.3.4 Polish language package
 
-Document language package `polski' v1.3.3 <2008/02/24>
    Inputenc package detected. Catcodes not changed.
-\l@nohyphenation=\language75
 ) ("C:\Program Files\MiKTeX 2.9\tex\latex\psnfss\mathpazo.sty"
 Package: mathpazo 2005/04/12 PSNFSS-v9.2a Palatino w/ Pazo Math (D.Puga, WaS) 
 \symupright=\mathgroup4
 )
 ("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\graphicx.sty"
-Package: graphicx 2014/10/28 v1.0g Enhanced LaTeX Graphics (DPC,SPQR)
+Package: graphicx 2017/06/01 v1.1a Enhanced LaTeX Graphics (DPC,SPQR)
 
 ("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\keyval.sty"
 Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
 \KV@toks@=\toks16
 )
 ("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\graphics.sty"
-Package: graphics 2016/07/10 v1.0t Standard LaTeX Graphics (DPC,SPQR)
+Package: graphics 2017/06/25 v1.2c Standard LaTeX Graphics (DPC,SPQR)
 
 ("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\trig.sty"
 Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
 )
-("C:\Program Files\MiKTeX 2.9\tex\latex\00miktex\graphics.cfg"
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics-cfg\graphics.cfg"
 File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
 )
 Package graphics Info: Driver file: pdftex.def on input line 99.
 
 ("C:\Program Files\MiKTeX 2.9\tex\latex\graphics-def\pdftex.def"
-File: pdftex.def 2016/07/10 v0.06j Graphics/color for pdfTeX
-
-("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\infwarerr.sty"
-Package: infwarerr 2016/05/16 v1.4 Providing info/warning/error messages (HO)
-)
-("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\ltxcmds.sty"
-Package: ltxcmds 2016/05/16 v1.23 LaTeX kernel commands for general use (HO)
-)
-\Gread@gobject=\count87
+File: pdftex.def 2017/06/24 v1.0g Graphics/color driver for pdftex
 ))
 \Gin@req@height=\dimen103
 \Gin@req@width=\dimen104
@@ -398,8 +392,8 @@ s
 \f@nch@O@orf=\skip51
 )
 ("C:\Program Files\MiKTeX 2.9\tex\latex\etoolbox\etoolbox.sty"
-Package: etoolbox 2017/01/02 v2.4 e-TeX tools for LaTeX (JAW)
-\etb@tempcnta=\count88
+Package: etoolbox 2017/11/22 v2.5 e-TeX tools for LaTeX (JAW)
+\etb@tempcnta=\count87
 )
 ("C:\Program Files\MiKTeX 2.9\tex\latex\blindtext\blindtext.sty"
 Package: blindtext 2012/01/06 V2.0 blindtext-Package
@@ -407,30 +401,30 @@ Package: blindtext 2012/01/06 V2.0 blindtext-Package
 ("C:\Program Files\MiKTeX 2.9\tex\latex\tools\xspace.sty"
 Package: xspace 2014/10/28 v1.13 Space after command names (DPC,MH)
 )
-\c@blindtext=\count89
-\c@Blindtext=\count90
-\c@blind@countparstart=\count91
-\blind@countxx=\count92
-\blindtext@numBlindtext=\count93
-\blind@countyy=\count94
-\c@blindlist=\count95
-\c@blindlistlevel=\count96
-\c@blindlist@level=\count97
-\blind@listitem=\count98
-\c@blind@listcount=\count99
-\c@blind@levelcount=\count100
-\blind@mathformula=\count101
-\blind@Mathformula=\count102
-\c@blind@randomcount=\count103
-\c@blind@randommax=\count104
-\c@blind@pangramcount=\count105
-\c@blind@pangrammax=\count106
+\c@blindtext=\count88
+\c@Blindtext=\count89
+\c@blind@countparstart=\count90
+\blind@countxx=\count91
+\blindtext@numBlindtext=\count92
+\blind@countyy=\count93
+\c@blindlist=\count94
+\c@blindlistlevel=\count95
+\c@blindlist@level=\count96
+\blind@listitem=\count97
+\c@blind@listcount=\count98
+\c@blind@levelcount=\count99
+\blind@mathformula=\count100
+\blind@Mathformula=\count101
+\c@blind@randomcount=\count102
+\c@blind@randommax=\count103
+\c@blind@pangramcount=\count104
+\c@blind@pangrammax=\count105
 )
 ("C:\Program Files\MiKTeX 2.9\tex\latex\geometry\geometry.sty"
 Package: geometry 2010/09/12 v5.6 Page Geometry
 
 ("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\ifpdf.sty"
-Package: ifpdf 2016/05/14 v3.1 Provides the ifpdf switch
+Package: ifpdf 2017/03/15 v3.2 Provides the ifpdf switch
 )
 ("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\ifvtex.sty"
 Package: ifvtex 2016/05/16 v1.6 Detect VTeX and its facilities (HO)
@@ -439,9 +433,9 @@ Package ifvtex Info: VTeX not detected.
 ("C:\Program Files\MiKTeX 2.9\tex\generic\ifxetex\ifxetex.sty"
 Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
 )
-\Gm@cnth=\count107
-\Gm@cntv=\count108
-\c@Gm@tempcnt=\count109
+\Gm@cnth=\count106
+\Gm@cntv=\count107
+\c@Gm@tempcnt=\count108
 \Gm@bindingoffset=\dimen105
 \Gm@wd@mp=\dimen106
 \Gm@odd@mp=\dimen107
@@ -493,39 +487,32 @@ File: t1ppl.fd 2001/06/04 font definitions for T1/ppl.
 
 ("C:\Program Files\MiKTeX 2.9\tex\context\base\supp-pdf.mkii"
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count110
+\scratchcounter=\count109
 \scratchdimen=\dimen114
 \scratchbox=\box26
-\nofMPsegments=\count111
-\nofMParguments=\count112
+\nofMPsegments=\count110
+\nofMParguments=\count111
 \everyMPshowfont=\toks18
-\MPscratchCnt=\count113
+\MPscratchCnt=\count112
 \MPscratchDim=\dimen115
-\MPnumerator=\count114
-\makeMPintoPDFobject=\count115
+\MPnumerator=\count113
+\makeMPintoPDFobject=\count114
 \everyMPtoPDFconversion=\toks19
-) ("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\pdftexcmds.sty"
-Package: pdftexcmds 2016/05/21 v0.22 Utility functions of pdfTeX for LuaTeX (HO
-)
-
-("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\ifluatex.sty"
-Package: ifluatex 2016/05/16 v1.4 Provides the ifluatex switch (HO)
-Package ifluatex Info: LuaTeX not detected.
-)
-Package pdftexcmds Info: LuaTeX not detected.
-Package pdftexcmds Info: \pdf@primitive is available.
-Package pdftexcmds Info: \pdf@ifprimitive is available.
-Package pdftexcmds Info: \pdfdraftmode found.
-)
-("C:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\epstopdf-base.sty"
+) ("C:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\epstopdf-base.sty"
 Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
 
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\infwarerr.sty"
+Package: infwarerr 2016/05/16 v1.4 Providing info/warning/error messages (HO)
+)
 ("C:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\grfext.sty"
 Package: grfext 2016/05/16 v1.2 Manage graphics extensions (HO)
 
 ("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\kvdefinekeys.sty"
 Package: kvdefinekeys 2016/05/16 v1.4 Define keys (HO)
-))
+
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\ltxcmds.sty"
+Package: ltxcmds 2016/05/16 v1.23 LaTeX kernel commands for general use (HO)
+)))
 ("C:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\kvoptions.sty"
 Package: kvoptions 2016/05/16 v3.12 Key value format for package options (HO)
 
@@ -534,15 +521,28 @@ Package: kvsetkeys 2016/05/16 v1.17 Key value parser (HO)
 
 ("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\etexcmds.sty"
 Package: etexcmds 2016/05/16 v1.6 Avoid name clashes with e-TeX commands (HO)
+
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\ifluatex.sty"
+Package: ifluatex 2016/05/16 v1.4 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+)
 Package etexcmds Info: Could not find \expanded.
 (etexcmds)             That can mean that you are not using pdfTeX 1.50 or
 (etexcmds)             that some package has redefined \expanded.
 (etexcmds)             In the latter case, load this package earlier.
 )))
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\pdftexcmds.sty"
+Package: pdftexcmds 2017/03/19 v0.25 Utility functions of pdfTeX for LuaTeX (HO
+)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)
 Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
 38.
 Package grfext Info: Graphics extension search list:
-(grfext)             [.png,.pdf,.jpg,.mps,.jpeg,.jbig2,.jb2,.PNG,.PDF,.JPG,.JPE
+(grfext)             [.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPE
 G,.JBIG2,.JB2,.eps]
 (grfext)             \AppendGraphicsExtensions on input line 456.
 )
@@ -612,15 +612,18 @@ File: ot1zplm.fd 2002/09/08 Fontinst v1.914 font definitions for OT1/zplm.
 )
 <logo.jpg, id=1, 226.9278pt x 358.4592pt>
 File: logo.jpg Graphic file (type jpg)
- <use logo.jpg>
-Package pdftex.def Info: logo.jpg used on input line 74.
-(pdftex.def)             Requested size: 226.92723pt x 358.45831pt.
+<use logo.jpg>
+Package pdftex.def Info: logo.jpg  used on input line 74. on input line 74.
+Package pdftex.def Info: Requested size: 226.92723pt x 358.45831pt on input lin
+e 74.
  [1
 
-{C:/ProgramData/MiKTeX/2.9/pdftex/config/pdftex.map} <./logo.jpg>]
+{C:/Users/Kuba-PC/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map} <./logo.jp
+g>]
 LaTeX Font Info:    Font shape `T1/ppl/bx/n' in size <14.4> not available
 (Font)              Font shape `T1/ppl/b/n' tried instead on input line 90.
- (ProjektAiMO.toc
+
+(ProjektAiMO.toc
 LaTeX Font Info:    Font shape `T1/ppl/bx/n' in size <10.95> not available
 (Font)              Font shape `T1/ppl/b/n' tried instead on input line 1.
 )
@@ -631,11 +634,13 @@ LaTeX Font Info:    Font shape `T1/ppl/bx/n' in size <10.95> not available
 
 
 ]
-<UseCaseDiagram.pdf, id=15, 775.89874pt x 523.9575pt>
+<UseCaseDiagram.pdf, id=15, pagebox=cropbox, 775.89874pt x 523.9575pt>
 File: UseCaseDiagram.pdf Graphic file (type pdf)
- <use UseCaseDiagram.pdf>
-Package pdftex.def Info: UseCaseDiagram.pdf used on input line 109.
-(pdftex.def)             Requested size: 504.32822pt x 340.56834pt.
+<use UseCaseDiagram.pdf>
+Package pdftex.def Info: UseCaseDiagram.pdf  used on input line 109. on input l
+ine 109.
+Package pdftex.def Info: Requested size: 504.32822pt x 340.56834pt on input lin
+e 109.
 
 Overfull \hbox (34.5732pt too wide) in paragraph at lines 109--110
  [] 
@@ -644,311 +649,369 @@ Overfull \hbox (34.5732pt too wide) in paragraph at lines 109--110
 [3 <./UseCaseDiagram.pdf>]
 LaTeX Font Info:    Font shape `T1/ppl/bx/n' in size <12> not available
 (Font)              Font shape `T1/ppl/b/n' tried instead on input line 113.
-
-<WybranieProduktuUdane.pdf, id=22, 793.96625pt x 574.145pt>
+<WybranieProduktuUdane.pdf, id=22, pagebox=cropbox, 793.96625pt x 574.145pt>
 File: WybranieProduktuUdane.pdf Graphic file (type pdf)
-
 <use WybranieProduktuUdane.pdf>
-Package pdftex.def Info: WybranieProduktuUdane.pdf used on input line 115.
-(pdftex.def)             Requested size: 516.07195pt x 373.18983pt.
+Package pdftex.def Info: WybranieProduktuUdane.pdf  used on input line 115. on 
+input line 115.
+Package pdftex.def Info: Requested size: 516.07195pt x 373.18983pt on input lin
+e 115.
 
 Overfull \hbox (46.31693pt too wide) in paragraph at lines 115--116
  [] 
  []
 
-<WybranieProduktuNieudane.pdf, id=23, 773.89125pt x 353.32pt>
+<WybranieProduktuNieudane.pdf, id=23, pagebox=cropbox, 773.89125pt x 353.32pt>
 File: WybranieProduktuNieudane.pdf Graphic file (type pdf)
-
 <use WybranieProduktuNieudane.pdf>
-Package pdftex.def Info: WybranieProduktuNieudane.pdf used on input line 119.
-(pdftex.def)             Requested size: 503.02335pt x 229.65527pt.
+Package pdftex.def Info: WybranieProduktuNieudane.pdf  used on input line 119. 
+on input line 119.
+Package pdftex.def Info: Requested size: 503.02335pt x 229.65527pt on input lin
+e 119.
 
 Overfull \hbox (33.26833pt too wide) in paragraph at lines 119--120
  [] 
  []
 
 [4 <./WybranieProduktuUdane.pdf> <./WybranieProduktuNieudane.pdf>]
-<PlatnoscKartaUdana.pdf, id=33, 793.96625pt x 413.545pt>
+<PlatnoscKartaUdana.pdf, id=33, pagebox=cropbox, 793.96625pt x 413.545pt>
 File: PlatnoscKartaUdana.pdf Graphic file (type pdf)
-
 <use PlatnoscKartaUdana.pdf>
-Package pdftex.def Info: PlatnoscKartaUdana.pdf used on input line 124.
-(pdftex.def)             Requested size: 516.07195pt x 268.80106pt.
+Package pdftex.def Info: PlatnoscKartaUdana.pdf  used on input line 124. on inp
+ut line 124.
+Package pdftex.def Info: Requested size: 516.07195pt x 268.80106pt on input lin
+e 124.
 
 Overfull \hbox (46.31693pt too wide) in paragraph at lines 124--125
  [] 
  []
 
-<PlatnoscKartaNieudana.pdf, id=34, 793.96625pt x 353.32pt>
+<PlatnoscKartaNieudana.pdf, id=34, pagebox=cropbox, 793.96625pt x 353.32pt>
 File: PlatnoscKartaNieudana.pdf Graphic file (type pdf)
-
 <use PlatnoscKartaNieudana.pdf>
-Package pdftex.def Info: PlatnoscKartaNieudana.pdf used on input line 128.
-(pdftex.def)             Requested size: 516.07195pt x 229.65527pt.
+Package pdftex.def Info: PlatnoscKartaNieudana.pdf  used on input line 128. on 
+input line 128.
+Package pdftex.def Info: Requested size: 516.07195pt x 229.65527pt on input lin
+e 128.
 
 Overfull \hbox (46.31693pt too wide) in paragraph at lines 128--129
  [] 
  []
 
 [5 <./PlatnoscKartaUdana.pdf> <./PlatnoscKartaNieudana.pdf>]
-<PlatnoscGotowkaUdana.pdf, id=44, 824.07875pt x 533.995pt>
+<PlatnoscGotowkaUdana.pdf, id=44, pagebox=cropbox, 824.07875pt x 533.995pt>
 File: PlatnoscGotowkaUdana.pdf Graphic file (type pdf)
-
 <use PlatnoscGotowkaUdana.pdf>
-Package pdftex.def Info: PlatnoscGotowkaUdana.pdf used on input line 133.
-(pdftex.def)             Requested size: 494.45107pt x 320.39948pt.
+Package pdftex.def Info: PlatnoscGotowkaUdana.pdf  used on input line 133. on i
+nput line 133.
+Package pdftex.def Info: Requested size: 494.45107pt x 320.39948pt on input lin
+e 133.
 
 Overfull \hbox (24.69604pt too wide) in paragraph at lines 133--134
  [] 
  []
 
-<PlatnoscGotowkaNieudana.pdf, id=45, 824.07875pt x 533.995pt>
+<PlatnoscGotowkaNieudana.pdf, id=45, pagebox=cropbox, 824.07875pt x 533.995pt>
 File: PlatnoscGotowkaNieudana.pdf Graphic file (type pdf)
-
 <use PlatnoscGotowkaNieudana.pdf>
-Package pdftex.def Info: PlatnoscGotowkaNieudana.pdf used on input line 137.
-(pdftex.def)             Requested size: 494.45107pt x 320.39948pt.
+Package pdftex.def Info: PlatnoscGotowkaNieudana.pdf  used on input line 137. o
+n input line 137.
+Package pdftex.def Info: Requested size: 494.45107pt x 320.39948pt on input lin
+e 137.
 
 Overfull \hbox (24.69604pt too wide) in paragraph at lines 137--138
  [] 
  []
 
 [6 <./PlatnoscGotowkaUdana.pdf> <./PlatnoscGotowkaNieudana.pdf>]
-<WydanieProduktu.pdf, id=56, 793.96625pt x 533.995pt>
+<WydanieProduktu.pdf, id=56, pagebox=cropbox, 793.96625pt x 533.995pt>
 File: WydanieProduktu.pdf Graphic file (type pdf)
-
 <use WydanieProduktu.pdf>
-Package pdftex.def Info: WydanieProduktu.pdf used on input line 142.
-(pdftex.def)             Requested size: 516.07195pt x 347.09264pt.
+Package pdftex.def Info: WydanieProduktu.pdf  used on input line 142. on input 
+line 142.
+Package pdftex.def Info: Requested size: 516.07195pt x 347.09264pt on input lin
+e 142.
 
 Overfull \hbox (46.31693pt too wide) in paragraph at lines 142--143
  [] 
  []
 
-<WydanieReszty.pdf, id=57, 793.96625pt x 533.995pt>
+<WydanieReszty.pdf, id=57, pagebox=cropbox, 793.96625pt x 533.995pt>
 File: WydanieReszty.pdf Graphic file (type pdf)
- <use WydanieReszty.pdf>
-Package pdftex.def Info: WydanieReszty.pdf used on input line 147.
-(pdftex.def)             Requested size: 516.07195pt x 347.09264pt.
+<use WydanieReszty.pdf>
+Package pdftex.def Info: WydanieReszty.pdf  used on input line 147. on input li
+ne 147.
+Package pdftex.def Info: Requested size: 516.07195pt x 347.09264pt on input lin
+e 147.
 
 Overfull \hbox (46.31693pt too wide) in paragraph at lines 147--148
  [] 
  []
 
 [7 <./WydanieProduktu.pdf> <./WydanieReszty.pdf>]
-<AnulowanieZakupu.pdf, id=67, 793.96625pt x 443.6575pt>
+<AnulowanieZakupu.pdf, id=67, pagebox=cropbox, 793.96625pt x 443.6575pt>
 File: AnulowanieZakupu.pdf Graphic file (type pdf)
-
 <use AnulowanieZakupu.pdf>
-Package pdftex.def Info: AnulowanieZakupu.pdf used on input line 152.
-(pdftex.def)             Requested size: 516.07195pt x 288.37395pt.
+Package pdftex.def Info: AnulowanieZakupu.pdf  used on input line 152. on input
+ line 152.
+Package pdftex.def Info: Requested size: 516.07195pt x 288.37395pt on input lin
+e 152.
 
 Overfull \hbox (46.31693pt too wide) in paragraph at lines 152--153
  [] 
  []
 
 [8 <./AnulowanieZakupu.pdf>]
-<ObslugaAutomatu.pdf, id=74, 824.07875pt x 533.995pt>
+<ObslugaAutomatu.pdf, id=74, pagebox=cropbox, 824.07875pt x 533.995pt>
 File: ObslugaAutomatu.pdf Graphic file (type pdf)
-
 <use ObslugaAutomatu.pdf>
-Package pdftex.def Info: ObslugaAutomatu.pdf used on input line 157.
-(pdftex.def)             Requested size: 535.64484pt x 347.09264pt.
+Package pdftex.def Info: ObslugaAutomatu.pdf  used on input line 157. on input 
+line 157.
+Package pdftex.def Info: Requested size: 535.64484pt x 347.09264pt on input lin
+e 157.
 
 Overfull \hbox (65.88982pt too wide) in paragraph at lines 157--158
  [] 
  []
 
-<PobranieGotowki.pdf, id=75, 793.96625pt x 533.995pt>
+<PobranieGotowki.pdf, id=75, pagebox=cropbox, 793.96625pt x 533.995pt>
 File: PobranieGotowki.pdf Graphic file (type pdf)
-
 <use PobranieGotowki.pdf>
-Package pdftex.def Info: PobranieGotowki.pdf used on input line 161.
-(pdftex.def)             Requested size: 516.07195pt x 347.09264pt.
+Package pdftex.def Info: PobranieGotowki.pdf  used on input line 161. on input 
+line 161.
+Package pdftex.def Info: Requested size: 516.07195pt x 347.09264pt on input lin
+e 161.
 
 Overfull \hbox (46.31693pt too wide) in paragraph at lines 161--162
  [] 
  []
 
 [9 <./ObslugaAutomatu.pdf> <./PobranieGotowki.pdf>]
-<UzupelnianieAutomatu.pdf, id=85, 793.96625pt x 533.995pt>
+<UzupelnianieAutomatu.pdf, id=85, pagebox=cropbox, 793.96625pt x 533.995pt>
 File: UzupelnianieAutomatu.pdf Graphic file (type pdf)
-
 <use UzupelnianieAutomatu.pdf>
-Package pdftex.def Info: UzupelnianieAutomatu.pdf used on input line 166.
-(pdftex.def)             Requested size: 516.07195pt x 347.09264pt.
+Package pdftex.def Info: UzupelnianieAutomatu.pdf  used on input line 166. on i
+nput line 166.
+Package pdftex.def Info: Requested size: 516.07195pt x 347.09264pt on input lin
+e 166.
 
 Overfull \hbox (46.31693pt too wide) in paragraph at lines 166--167
  [] 
  []
 
-<ZmianaProduktu.pdf, id=86, 794.97pt x 533.995pt>
+<ZmianaProduktu.pdf, id=86, pagebox=cropbox, 794.97pt x 533.995pt>
 File: ZmianaProduktu.pdf Graphic file (type pdf)
- <use ZmianaProduktu.pdf>
-Package pdftex.def Info: ZmianaProduktu.pdf used on input line 170.
-(pdftex.def)             Requested size: 516.72438pt x 347.09264pt.
+<use ZmianaProduktu.pdf>
+Package pdftex.def Info: ZmianaProduktu.pdf  used on input line 170. on input l
+ine 170.
+Package pdftex.def Info: Requested size: 516.72438pt x 347.09264pt on input lin
+e 170.
 
 Overfull \hbox (46.96936pt too wide) in paragraph at lines 170--171
  [] 
  []
 
 [10 <./UzupelnianieAutomatu.pdf> <./ZmianaProduktu.pdf>]
-<stanu1.pdf, id=96, 733.74126pt x 1082.0425pt>
-File: stanu1.pdf Graphic file (type pdf)
- <use stanu1.pdf>
-Package pdftex.def Info: stanu1.pdf used on input line 176.
-(pdftex.def)             Requested size: 513.61539pt x 757.42459pt.
-
-Overfull \hbox (43.86037pt too wide) in paragraph at lines 176--177
- [] 
- []
-
-<stanu2.pdf, id=97, 316.18124pt x 754.82pt>
-File: stanu2.pdf Graphic file (type pdf)
- <use stanu2.pdf>
-Package pdftex.def Info: stanu2.pdf used on input line 180.
-(pdftex.def)             Requested size: 237.13535pt x 566.11363pt.
- [11 <./stanu1.pdf>] <stanu3.pdf, id=104, 645.41125pt x 1121.18875pt>
-File: stanu3.pdf Graphic file (type pdf)
- <use stanu3.pdf>
-Package pdftex.def Info: stanu3.pdf used on input line 184.
-(pdftex.def)             Requested size: 451.7848pt x 784.82678pt.
- [12 <./stanu2.pdf>] [13 <./stanu3.pdf>] <stanu4.pdf, id=118, 631.35875pt x 935
-.495pt>
-File: stanu4.pdf Graphic file (type pdf)
-
-<use stanu4.pdf>
-Package pdftex.def Info: stanu4.pdf used on input line 189.
-(pdftex.def)             Requested size: 473.5179pt x 701.61952pt.
-
-Overfull \hbox (3.76288pt too wide) in paragraph at lines 189--190
- [] 
- []
-
-<stanu5.pdf, id=119, 154.5775pt x 579.16376pt>
-File: stanu5.pdf Graphic file (type pdf)
- <use stanu5.pdf>
-Package pdftex.def Info: stanu5.pdf used on input line 193.
-(pdftex.def)             Requested size: 154.5771pt x 579.16234pt.
- [14 <./stanu4.pdf>] <stanu6.pdf, id=126, 372.39125pt x 840.13875pt>
-File: stanu6.pdf Graphic file (type pdf)
- <use stanu6.pdf>
-Package pdftex.def Info: stanu6.pdf used on input line 197.
-(pdftex.def)             Requested size: 316.53406pt x 714.12132pt.
- [15 <./stanu5.pdf>] <stanu7.pdf, id=133, 151.56625pt x 674.52pt>
-File: stanu7.pdf Graphic file (type pdf)
- <use stanu7.pdf>
-Package pdftex.def Info: stanu7.pdf used on input line 201.
-(pdftex.def)             Requested size: 151.56587pt x 674.51836pt.
-
-[16 <./stanu6.pdf>] [17 <./stanu7.pdf>]
-<czynnosci1.pdf, id=146, 692.5875pt x 1166.3575pt>
-File: czynnosci1.pdf Graphic file (type pdf)
- <use czynnosci1.pdf>
-Package pdftex.def Info: czynnosci1.pdf used on input line 207.
-(pdftex.def)             Requested size: 457.10916pt x 769.79834pt.
-
-[18 <./czynnosci1.pdf>] <czynnosci2.pdf, id=154, 733.74126pt x 975.645pt>
-File: czynnosci2.pdf Graphic file (type pdf)
-
-<use czynnosci2.pdf>
-Package pdftex.def Info: czynnosci2.pdf used on input line 212.
-(pdftex.def)             Requested size: 513.61539pt x 682.94685pt.
-
-Overfull \hbox (43.86037pt too wide) in paragraph at lines 212--213
- [] 
- []
-
-<czynnosci3.pdf, id=155, 122.4575pt x 443.6575pt>
-File: czynnosci3.pdf Graphic file (type pdf)
- <use czynnosci3.pdf>
-Package pdftex.def Info: czynnosci3.pdf used on input line 216.
-(pdftex.def)             Requested size: 122.45718pt x 443.6564pt.
- [19 <./czynnosci2.pdf>] [20 <./czynnosci3.pdf>]
-<czynnosci4.pdf, id=168, 601.24625pt x 922.44624pt>
-File: czynnosci4.pdf Graphic file (type pdf)
- <use czynnosci4.pdf>
-Package pdftex.def Info: czynnosci4.pdf used on input line 221.
-(pdftex.def)             Requested size: 480.99763pt x 737.958pt.
-
-Overfull \hbox (11.24261pt too wide) in paragraph at lines 221--222
- [] 
- []
-
-[21 <./czynnosci4.pdf>] <klas.pdf, id=175, 783.92876pt x 1040.88875pt>
+<klas.pdf, id=96, pagebox=cropbox, 768.8725pt x 1165.35374pt>
 File: klas.pdf Graphic file (type pdf)
-
 <use klas.pdf>
-Package pdftex.def Info: klas.pdf used on input line 226.
-(pdftex.def)             Requested size: 509.54765pt x 676.56967pt.
+Package pdftex.def Info: klas.pdf  used on input line 175. on input line 175.
+Package pdftex.def Info: Requested size: 499.7612pt x 757.47096pt on input line
+ 175.
 
-Overfull \hbox (39.79263pt too wide) in paragraph at lines 226--227
+Overfull \hbox (30.00618pt too wide) in paragraph at lines 175--176
  [] 
  []
 
-<obiektow1.pdf, id=176, 593.21625pt x 232.87pt>
+[11 <./klas.pdf>]
+<stanu1.pdf, id=103, pagebox=cropbox, 748.7975pt x 1082.0425pt>
+File: stanu1.pdf Graphic file (type pdf)
+<use stanu1.pdf>
+Package pdftex.def Info: stanu1.pdf  used on input line 181. on input line 181.
+
+Package pdftex.def Info: Requested size: 524.15468pt x 757.42459pt on input lin
+e 181.
+
+Overfull \hbox (54.39966pt too wide) in paragraph at lines 181--182
+ [] 
+ []
+
+<stanu2.pdf, id=104, pagebox=cropbox, 316.18124pt x 754.82pt>
+File: stanu2.pdf Graphic file (type pdf)
+<use stanu2.pdf>
+Package pdftex.def Info: stanu2.pdf  used on input line 185. on input line 185.
+
+Package pdftex.def Info: Requested size: 237.13535pt x 566.11363pt on input lin
+e 185.
+[12 <./stanu1.pdf>]
+<stanu3.pdf, id=112, pagebox=cropbox, 820.06375pt x 1121.18875pt>
+File: stanu3.pdf Graphic file (type pdf)
+<use stanu3.pdf>
+Package pdftex.def Info: stanu3.pdf  used on input line 189. on input line 189.
+
+Package pdftex.def Info: Requested size: 574.04071pt x 784.82678pt on input lin
+e 189.
+
+Overfull \hbox (104.28569pt too wide) in paragraph at lines 189--190
+ [] 
+ []
+
+[13 <./stanu2.pdf>] [14 <./stanu3.pdf>]
+<stanu4.pdf, id=125, pagebox=cropbox, 687.56876pt x 935.495pt>
+File: stanu4.pdf Graphic file (type pdf)
+<use stanu4.pdf>
+Package pdftex.def Info: stanu4.pdf  used on input line 194. on input line 194.
+
+Package pdftex.def Info: Requested size: 515.67531pt x 701.61952pt on input lin
+e 194.
+
+Overfull \hbox (45.92029pt too wide) in paragraph at lines 194--195
+ [] 
+ []
+
+<stanu5.pdf, id=126, pagebox=cropbox, 256.96pt x 579.16376pt>
+File: stanu5.pdf Graphic file (type pdf)
+<use stanu5.pdf>
+Package pdftex.def Info: stanu5.pdf  used on input line 198. on input line 198.
+
+Package pdftex.def Info: Requested size: 256.95937pt x 579.16234pt on input lin
+e 198.
+[15 <./stanu4.pdf>]
+<stanu6.pdf, id=133, pagebox=cropbox, 666.49pt x 840.13875pt>
+File: stanu6.pdf Graphic file (type pdf)
+<use stanu6.pdf>
+Package pdftex.def Info: stanu6.pdf  used on input line 202. on input line 202.
+
+Package pdftex.def Info: Requested size: 566.51918pt x 714.12132pt on input lin
+e 202.
+
+Overfull \hbox (96.76416pt too wide) in paragraph at lines 202--203
+ [] 
+ []
+
+[16 <./stanu5.pdf>]
+<stanu7.pdf, id=140, pagebox=cropbox, 269.005pt x 564.1075pt>
+File: stanu7.pdf Graphic file (type pdf)
+<use stanu7.pdf>
+Package pdftex.def Info: stanu7.pdf  used on input line 206. on input line 206.
+
+Package pdftex.def Info: Requested size: 269.00433pt x 564.10611pt on input lin
+e 206.
+ [17 <./stanu6.pdf>] [18 <./stanu7.pdf>]
+<czynnosci1.pdf, id=154, pagebox=cropbox, 692.5875pt x 1166.3575pt>
+File: czynnosci1.pdf Graphic file (type pdf)
+<use czynnosci1.pdf>
+Package pdftex.def Info: czynnosci1.pdf  used on input line 212. on input line 
+212.
+Package pdftex.def Info: Requested size: 457.10916pt x 769.79834pt on input lin
+e 212.
+ [19 <./czynnosci1.pdf>]
+<czynnosci2.pdf, id=161, pagebox=cropbox, 733.74126pt x 975.645pt>
+File: czynnosci2.pdf Graphic file (type pdf)
+<use czynnosci2.pdf>
+Package pdftex.def Info: czynnosci2.pdf  used on input line 217. on input line 
+217.
+Package pdftex.def Info: Requested size: 513.61539pt x 682.94685pt on input lin
+e 217.
+
+Overfull \hbox (43.86037pt too wide) in paragraph at lines 217--218
+ [] 
+ []
+
+<czynnosci3.pdf, id=162, pagebox=cropbox, 122.4575pt x 443.6575pt>
+File: czynnosci3.pdf Graphic file (type pdf)
+<use czynnosci3.pdf>
+Package pdftex.def Info: czynnosci3.pdf  used on input line 221. on input line 
+221.
+Package pdftex.def Info: Requested size: 122.45718pt x 443.6564pt on input line
+ 221.
+[20 <./czynnosci2.pdf>] [21 <./czynnosci3.pdf>]
+<czynnosci4.pdf, id=175, pagebox=cropbox, 601.24625pt x 922.44624pt>
+File: czynnosci4.pdf Graphic file (type pdf)
+<use czynnosci4.pdf>
+Package pdftex.def Info: czynnosci4.pdf  used on input line 226. on input line 
+226.
+Package pdftex.def Info: Requested size: 480.99763pt x 737.958pt on input line 
+226.
+
+Overfull \hbox (11.24261pt too wide) in paragraph at lines 226--227
+ [] 
+ []
+
+[22 <./czynnosci4.pdf>]
+<obiektow1.pdf, id=182, pagebox=cropbox, 593.21625pt x 252.945pt>
 File: obiektow1.pdf Graphic file (type pdf)
- <use obiektow1.pdf>
-Package pdftex.def Info: obiektow1.pdf used on input line 231.
-(pdftex.def)             Requested size: 385.58598pt x 151.3637pt.
- [22 <./klas.pdf>] <obiektow2.pdf, id=183, 783.92876pt x 353.32pt>
+<use obiektow1.pdf>
+Package pdftex.def Info: obiektow1.pdf  used on input line 232. on input line 2
+32.
+Package pdftex.def Info: Requested size: 385.58598pt x 164.4123pt on input line
+ 232.
+<obiektow2.pdf, id=183, pagebox=cropbox, 814.04124pt x 539.01375pt>
 File: obiektow2.pdf Graphic file (type pdf)
- <use obiektow2.pdf>
-Package pdftex.def Info: obiektow2.pdf used on input line 235.
-(pdftex.def)             Requested size: 509.54765pt x 229.65527pt.
+<use obiektow2.pdf>
+Package pdftex.def Info: obiektow2.pdf  used on input line 236. on input line 2
+36.
+Package pdftex.def Info: Requested size: 529.12053pt x 350.35478pt on input lin
+e 236.
 
-Overfull \hbox (39.79263pt too wide) in paragraph at lines 235--236
+Overfull \hbox (59.36551pt too wide) in paragraph at lines 236--237
  [] 
  []
 
-<obiektow3.pdf, id=184, 773.89125pt x 343.2825pt>
+<obiektow3.pdf, id=184, pagebox=cropbox, 814.04124pt x 427.5975pt>
 File: obiektow3.pdf Graphic file (type pdf)
- <use obiektow3.pdf>
-Package pdftex.def Info: obiektow3.pdf used on input line 239.
-(pdftex.def)             Requested size: 503.02335pt x 223.13097pt.
+<use obiektow3.pdf>
+Package pdftex.def Info: obiektow3.pdf  used on input line 240. on input line 2
+40.
+Package pdftex.def Info: Requested size: 529.12053pt x 277.93507pt on input lin
+e 240.
 
-Overfull \hbox (33.26833pt too wide) in paragraph at lines 239--240
+Overfull \hbox (59.36551pt too wide) in paragraph at lines 240--241
  [] 
  []
 
-[23 <./obiektow1.pdf> <./obiektow2.pdf> <./obiektow3.pdf>]
-<obiektow4.pdf, id=197, 753.81625pt x 353.32pt>
+[23 <./obiektow1.pdf> <./obiektow2.pdf>]
+<obiektow4.pdf, id=194, pagebox=cropbox, 773.89125pt x 383.4325pt>
 File: obiektow4.pdf Graphic file (type pdf)
- <use obiektow4.pdf>
-Package pdftex.def Info: obiektow4.pdf used on input line 244.
-(pdftex.def)             Requested size: 489.97476pt x 229.65527pt.
+<use obiektow4.pdf>
+Package pdftex.def Info: obiektow4.pdf  used on input line 244. on input line 2
+44.
+Package pdftex.def Info: Requested size: 503.02335pt x 249.22816pt on input lin
+e 244.
 
-Overfull \hbox (20.21974pt too wide) in paragraph at lines 244--245
+Overfull \hbox (33.26833pt too wide) in paragraph at lines 244--245
  [] 
  []
 
-<obiektow5.pdf, id=198, 793.96625pt x 584.1825pt>
+<obiektow5.pdf, id=195, pagebox=cropbox, 780.9175pt x 604.2575pt>
 File: obiektow5.pdf Graphic file (type pdf)
- <use obiektow5.pdf>
-Package pdftex.def Info: obiektow5.pdf used on input line 248.
-(pdftex.def)             Requested size: 516.07195pt x 379.71411pt.
+<use obiektow5.pdf>
+Package pdftex.def Info: obiektow5.pdf  used on input line 248. on input line 2
+48.
+Package pdftex.def Info: Requested size: 507.59036pt x 392.76273pt on input lin
+e 248.
 
-Overfull \hbox (46.31693pt too wide) in paragraph at lines 248--249
+Overfull \hbox (37.83534pt too wide) in paragraph at lines 248--249
  [] 
  []
 
-[24 <./obiektow4.pdf> <./obiektow5.pdf>] (ProjektAiMO.aux) ) 
+[24 <./obiektow3.pdf> <./obiektow4.pdf>] [25 <./obiektow5.pdf>]
+(ProjektAiMO.aux) ) 
 Here is how much of TeX's memory you used:
- 4224 strings out of 493334
- 59239 string characters out of 3139246
- 148253 words of memory out of 3000000
- 7633 multiletter control sequences out of 15000+200000
+ 4183 strings out of 493312
+ 59620 string characters out of 3138893
+ 144553 words of memory out of 3000000
+ 7609 multiletter control sequences out of 15000+200000
  32477 words of font info for 56 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 49i,10n,43p,865b,259s stack positions out of 5000i,500n,10000p,200000b,50000s
-{C:/Program Files/M
-iKTeX 2.9/fonts/enc/dvips/fontname/8r.enc}<C:/Program Files/MiKTeX 2.9/fonts/ty
-pe1/urw/palatino/uplb8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/palati
-no/uplr8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/palatino/uplri8a.pfb
->
-Output written on ProjektAiMO.pdf (25 pages, 3011776 bytes).
+ 51i,10n,43p,865b,261s stack positions out of 5000i,500n,10000p,200000b,50000s
+{C:/Program Files/MiKTeX 2.9/fonts/enc/dvips/base/8r.enc}<C:
+/Program Files/MiKTeX 2.9/fonts/type1/urw/palatino/uplb8a.pfb><C:/Program Files
+/MiKTeX 2.9/fonts/type1/urw/palatino/uplr8a.pfb><C:/Program Files/MiKTeX 2.9/fo
+nts/type1/urw/palatino/uplri8a.pfb>
+Output written on ProjektAiMO.pdf (26 pages, 3573392 bytes).
 PDF statistics:
- 221 PDF objects out of 1000 (max. 8388607)
+ 224 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  161 words of extra memory for PDF output out of 10000 (max. 10000000)
 

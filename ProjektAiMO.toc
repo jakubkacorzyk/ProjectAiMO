@@ -14,23 +14,23 @@
 \contentsline {subsection}{\numberline {3.11}Pobranie got\IeC {\'o}wki.}{9}
 \contentsline {subsection}{\numberline {3.12}Uzupe\IeC {\l }nienie automatu.}{10}
 \contentsline {subsection}{\numberline {3.13}Zmiana produktu.}{10}
-\contentsline {section}{\numberline {4}Diagramy stan\IeC {\'o}w.}{11}
-\contentsline {subsection}{\numberline {4.1}Diagram stanu.}{11}
-\contentsline {subsection}{\numberline {4.2}P\IeC {\l }atno\IeC {\'s}\IeC {\'c} kart\IeC {\k a}.}{12}
-\contentsline {subsection}{\numberline {4.3}P\IeC {\l }atno\IeC {\'s}\IeC {\'c} got\IeC {\'o}wk\IeC {\k a}.}{13}
-\contentsline {subsection}{\numberline {4.4}Tryb serwisowy.}{14}
-\contentsline {subsection}{\numberline {4.5}Uzupe\IeC {\l }nienie automatu.}{15}
-\contentsline {subsection}{\numberline {4.6}Zmiana produktu.}{16}
-\contentsline {subsection}{\numberline {4.7}Pobranie got\IeC {\'o}wki.}{17}
-\contentsline {section}{\numberline {5}Diagramy czynno\IeC {\'s}ci.}{18}
-\contentsline {subsection}{\numberline {5.1}Diagram czynno\IeC {\'s}ci.}{18}
-\contentsline {subsection}{\numberline {5.2}Wykonanie akcji serwisowej.}{19}
-\contentsline {subsection}{\numberline {5.3}Przeprowadzenie p\IeC {\l }atno\IeC {\'s}ci kart\IeC {\k a}.}{20}
-\contentsline {subsection}{\numberline {5.4}Przeprowadzenie p\IeC {\l }atno\IeC {\'s}ci got\IeC {\'o}wk\IeC {\k a}.}{21}
-\contentsline {section}{\numberline {6}Diagram klas.}{22}
+\contentsline {section}{\numberline {4}Diagram klas.}{11}
+\contentsline {section}{\numberline {5}Diagramy stan\IeC {\'o}w.}{12}
+\contentsline {subsection}{\numberline {5.1}Diagram stanu.}{12}
+\contentsline {subsection}{\numberline {5.2}P\IeC {\l }atno\IeC {\'s}\IeC {\'c} kart\IeC {\k a}.}{13}
+\contentsline {subsection}{\numberline {5.3}P\IeC {\l }atno\IeC {\'s}\IeC {\'c} got\IeC {\'o}wk\IeC {\k a}.}{14}
+\contentsline {subsection}{\numberline {5.4}Tryb serwisowy.}{15}
+\contentsline {subsection}{\numberline {5.5}Uzupe\IeC {\l }nienie automatu.}{16}
+\contentsline {subsection}{\numberline {5.6}Zmiana produktu.}{17}
+\contentsline {subsection}{\numberline {5.7}Pobranie got\IeC {\'o}wki.}{18}
+\contentsline {section}{\numberline {6}Diagramy czynno\IeC {\'s}ci.}{19}
+\contentsline {subsection}{\numberline {6.1}Diagram czynno\IeC {\'s}ci.}{19}
+\contentsline {subsection}{\numberline {6.2}Wykonanie akcji serwisowej.}{20}
+\contentsline {subsection}{\numberline {6.3}Przeprowadzenie p\IeC {\l }atno\IeC {\'s}ci kart\IeC {\k a}.}{21}
+\contentsline {subsection}{\numberline {6.4}Przeprowadzenie p\IeC {\l }atno\IeC {\'s}ci got\IeC {\'o}wk\IeC {\k a}.}{22}
 \contentsline {section}{\numberline {7}Diagramy obiekt\IeC {\'o}w.}{23}
 \contentsline {subsection}{\numberline {7.1}Wybranie produktu.}{23}
 \contentsline {subsection}{\numberline {7.2}P\IeC {\l }atno\IeC {\'s}\IeC {\'c}.}{23}
-\contentsline {subsection}{\numberline {7.3}Wydanie reszty.}{23}
+\contentsline {subsection}{\numberline {7.3}Wydanie reszty.}{24}
 \contentsline {subsection}{\numberline {7.4}Wydanie produktu.}{24}
-\contentsline {subsection}{\numberline {7.5}Tryb serwisowy.}{24}
+\contentsline {subsection}{\numberline {7.5}Tryb serwisowy.}{25}
